@@ -36,3 +36,10 @@ app.put('/users/:id', (req, res)=> {
 
 app.listen(3333)
 
+//CONTROLLER
+
+/* Métodos padrão utilizados
+
+index, show, store, update, destroy
+
+*/
